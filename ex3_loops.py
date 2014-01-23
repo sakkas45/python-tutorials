@@ -28,3 +28,5 @@ for i in range (1,a-1):
     fib2=fib1
     fib1=fib
 print(fib)
+
+# C#'taki continue yerine pass kullanılır.
